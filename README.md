@@ -15,10 +15,8 @@ Features
 3) Delete a particular word from a trie.
 4) Display the Similar words as suggestiond.
 ```
-<img src="Demo/insert.png" width="500" height="400">
-<img src="Demo/insert.png" width="500" height="400">
-<img src="Demo/delete.png" width="500" height="400">
-<img src="Demo/suggestion.png" width="500" height="400">
+<img src="Demo/contents.jpeg" width="400" height="400"> <img src="Demo/search.jpeg" width="400" height="400">
+<img src="Demo/remove.jpeg" width="400" height="400"> <img src="Demo/suggest.jpeg" width="400" height="400">
 
 
 ## Built With
